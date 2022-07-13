@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `*───────[ BIODATA OWNER ]───────*
 *💌 Nama* : 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐
-*✉️ Nama RL* : 𝐻𝑒𝑛𝑑𝑟𝑎
+*✉️ Nama RL* : 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
 *⏰ Tanggal lahir* : 6 Juni 2006
